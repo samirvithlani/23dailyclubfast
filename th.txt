@@ -1,0 +1,38 @@
+Programming languages:
+Scripting languages: Scripting is subset of Programming languages,
+
+- Python is Scripting language
+
+compiler, interpreter,
+
+Python is interpreter language
+
+---------------------------------------------------------------------
+
+statically typed : 
+
+if you want to declare a variable, you have to specify the type of the variable
+int a = 10; 4bytes
+float x = 10.20
+c, c++, java, c#
+
+dynamically typed :
+
+if you want to declare a variable, you dont  have to specify the type of the variable
+
+no = 100
+
+python ,js
+
+.py
+
+
+
+int a = 100
+int b = 100.20
+
+implicit type conversion
+print(100)
+
+
+find how to input false in bool
