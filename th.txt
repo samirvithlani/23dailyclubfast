@@ -36,3 +36,36 @@ print(100)
 
 
 find how to input false in bool
+
+operators: operators are special symbols that perform operations on operands
+
+type of operators :
+1) unary operators
+    it requires only one operand
+    ++a , a++
+
+2) binary operators
+    it requires two operands a + b 
+
+
+1) arithmetic operators
+    +, -, *, /, %,     //, **
+2) relational operators
+    <, >, <=, >=, ==, !=
+3) logical operators
+    and, or, not
+4) bitwise operators
+    &, |, ^, ~, <<, >>
+5) assignment operators
+    =, +=, -=, *=, /=, %=, //=, **=
+    
+6) membership operators
+    in, not in
+7) identity operators
+    is, is not                        
+
+
+
+3) ternary operators
+    it requires three operands
+    a ? b : c
