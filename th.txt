@@ -69,3 +69,19 @@ type of operators :
 3) ternary operators
     it requires three operands
     a ? b : c
+
+
+decision making statements:
+if else
+match case
+loops:
+
+{
+
+}
+
+    x =10
+
+
+only indian citizen can get aadhar card and indian passport 
+if age > 14 then only you can apply for driving license
