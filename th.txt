@@ -85,3 +85,12 @@ loops:
 
 only indian citizen can get aadhar card and indian passport 
 if age > 14 then only you can apply for driving license
+
+
+
+50 case...
+if
+elif
+elif
+
+49th
