@@ -94,3 +94,47 @@ elif
 elif
 
 49th
+
+
+
+
+please etner amount ---> 10000 -->
+please enter valid amont 9000
+please enter valid amont 8000
+
+try again lt....
+
+
+please enter amount ---> 12000
+amont is valid
+
+
+
+10k
+9k please enter valid amount
+8k please enter valid amount
+
+try again
+
+-------------------------
+row
+ column
+
+ * * * * *
+ * * * * *
+ * * * * *
+ * * * * *
+ * * * * *
+
+for i in range(1,6):
+    for j in range(1,6):
+        print("*", end=" ")
+
+
+* * * * *
+*       *
+*       *
+*       *
+* * * * *
+
+and or
