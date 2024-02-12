@@ -11,3 +11,9 @@ for i in name:
         upper = upper + chr(ord(i)-32)
 
 print(upper)        
+
+
+x = 65
+print(chr(x)) #A
+x = "A"
+print(ord(x)) #65

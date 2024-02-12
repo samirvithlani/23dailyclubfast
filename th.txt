@@ -138,3 +138,27 @@ for i in range(1,6):
 * * * * *
 
 and or
+
+
+len
+upper
+lower
+chr
+ord
+title
+capitalize
+swapcase
+isalpha
+isdigit
+isalnum
+isspace
+isupper
+islower
+startswith
+endswith
+find
+index
+isPrintable
+strip
+lstrip
+rstrip
