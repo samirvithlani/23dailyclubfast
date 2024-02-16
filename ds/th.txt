@@ -1,0 +1,21 @@
+
+
+list
+tuple
+dict
+set
+
+array : array is group of similar data type
+
+list :
+1) list is a collection of different data types 
+2) list is mutable
+3) list is ordered ,dynamic array 0..9
+4) list is represented by []
+5) list is hetrogenous [12,"raj",true]
+6) list is iterable
+7) list is indexed
+8) list is growable
+9) list allow duplicate values
+10)data type of list is list
+

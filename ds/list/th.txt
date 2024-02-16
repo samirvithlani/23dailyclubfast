@@ -1,0 +1,10 @@
+[]
+
+extend
+append
+insert
+pop
+pop()
+remove
+count
+clear
