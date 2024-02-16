@@ -31,7 +31,8 @@ print(data)
 #data.extend(["amit"])
 print(data)
 
-data.insert(2,999)
+#data.insert(2,999)
+data.insert(2,"india")
 print(data)
 
 # data.remove(20)

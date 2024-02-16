@@ -1,0 +1,6 @@
+enter sting --> infite
+
+want to add more data -press 1 for yes and 0 for no
+
+
+list -->
