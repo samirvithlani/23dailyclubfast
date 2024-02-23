@@ -4,3 +4,11 @@ want to add more data -press 1 for yes and 0 for no
 
 
 list -->
+
+
+1)find all palindrome names from list...and store it in another list
+2)find all armstrong numbers from list...and store it in another list
+3)find second largest number from list
+4)find no of occurences of each element in list [10,20,30,40,30,10]
+
+

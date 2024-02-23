@@ -19,3 +19,15 @@ list :
 9) list allow duplicate values
 10)data type of list is list
 
+
+append() : add the element at the end of the list
+extend() : add the element at the end of the list
+insert() : add the element at the specific index
+pop() : remove the element from the end of the list
+remove() : remove the element from the list
+index() : return the index of the element
+count() : return the count of the element
+sort() : sort the list
+remove() : remove the element from the list
+copy() : copy the list
+clear() : clear the list

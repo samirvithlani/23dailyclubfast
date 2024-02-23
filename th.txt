@@ -162,3 +162,25 @@ isPrintable
 strip
 lstrip
 rstrip
+------
+
+ARRAY is group of similar type of elements
+1)list
+2)tuple
+3)set
+4)dictionary
+
+
+1)list is mutable
+2)list is ordered, and indexed
+3)list allows duplicate elements
+4)list allows hetrogenous elements [12,34,56,77.88,"pl",false]
+5)list is represented by []
+6)list is dynamic
+7)list is growable [10,20,30] --add --> [10,20,30,40]
+8)list is iterable --> iterate...
+9)list is shrinkable [10,20,30,40] --remove --> [10,20,30]
+10)dat type of list is list
+
+
+
