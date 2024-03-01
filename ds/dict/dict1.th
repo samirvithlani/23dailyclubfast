@@ -1,0 +1,11 @@
+
+dictonary:
+1)dict is collection of key value pairs
+eg:{1:"ram"} {key:value}
+{"userName":"amit","password":1234}
+2)dict is mutable
+3)dict is unordered
+4)dict does not allow duplicate keys
+5)dict allows duplicate values
+6)dict is represented by {}
+7)data type of dict is dict

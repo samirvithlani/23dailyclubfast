@@ -31,3 +31,12 @@ sort() : sort the list
 remove() : remove the element from the list
 copy() : copy the list
 clear() : clear the list
+
+
+tuple:
+
+tuple is a collection of different data types
+tuple allow duplicate values
+tuple is immutable [diff b/w list and tuple]
+data type of tuple is tuple
+tuple is represented by ()
