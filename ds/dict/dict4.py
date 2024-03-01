@@ -8,3 +8,11 @@ sales[2022] = 2100
 removedElm = sales.pop(2020)    
 print("removing",removedElm)
 print(sales)
+
+
+
+students = {"naman":23,"madam":"34","amit":33,"ram":23,"a":100}
+
+for i,j in students.items():
+    if i == i[::-1]:
+        print(i,j)
