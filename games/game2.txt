@@ -1,0 +1,8 @@
+#cows #bulls
+
+secret no = 1234
+
+guess secret no = 9267 #1 cows and 0 bulls
+guess secret no = 1267 #2 cows and 0 bulls
+guess secret no = 1293 # 2 cows and 1 bulls
+#guess secret 1234 # 4 cows and 0 bulls

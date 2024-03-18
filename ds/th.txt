@@ -40,3 +40,21 @@ tuple allow duplicate values
 tuple is immutable [diff b/w list and tuple]
 data type of tuple is tuple
 tuple is represented by ()
+
+
+set:
+set is collection of heterogenous data types
+set does not allow duplicate values
+set is mutable
+set is unordered []
+set is represented by {}
+set is iterable
+set is not subscriptable
+set is not indexed 
+set stores data in hash table
+
+add --> add the element in the set
+update --> add the multiple elements in the set [iterable]
+remove --> remove the element from the set
+discard --> remove the element from the set
+pop --> remove the element from the set
