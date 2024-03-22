@@ -182,5 +182,69 @@ ARRAY is group of similar type of elements
 9)list is shrinkable [10,20,30,40] --remove --> [10,20,30]
 10)dat type of list is list
 
+------------------------------------------------------------------------------------------
+functions:
+
+function is block of code which is used to perform a specific task
+use of function:
+1)resuability
+2)modularity
+3)code optimization
+4)code readability
+5)code maintainability
+
+
+50 line of code..... 
+
+4 5.... 250 -->
+
+wrap[] function call...
+--------------------------
+
+open ac :- 
+    withdraw
+deposit
+
+
+modularity:
+
+
+3)code optimization
+
+10 line of code --> 10 times -->
+
+button create ---> 100 license
+color -->red-->
+
+100 times
+
+
+type of functions:
+
+built-in functions :print,input ....
+user-defined functions : functions created by user
+
+with return type with arguments
+with return type without arguments
+without return type with arguments
+without return type without arguments
+
+int sum
+void sum
+float marks
+
+def keyword is used to define a function
+
+
+
+
+
+
+
+
+
+
+
+
 
 
