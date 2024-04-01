@@ -237,6 +237,11 @@ def keyword is used to define a function
 
 
 
+pass string in function check weather it is palindrome or not if its return true or false
+
+
+
+
 
 
 
