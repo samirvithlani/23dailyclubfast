@@ -241,6 +241,37 @@ pass string in function check weather it is palindrome or not if its return true
 
 
 
+create a function which will take 2 number as an arguments
+
+task:1
+1st parameter should be a palindrome number
+2nd parameter should be a prime number
+------------------
+task:2
+create 2 string param in lamnda concat it and check how many vowels are there in the string
+------------------
+task:3
+take 2 string param 
+1 param is sentence and 2nd param is word
+find a word if it is present in the sentence or not
+if its then return index of the word
+"hi this is india, india is my country" ,"ok"
+------------------
+task4:
+take 3 number param and find the max number
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
