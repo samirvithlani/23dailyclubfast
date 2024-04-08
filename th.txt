@@ -260,6 +260,12 @@ if its then return index of the word
 task4:
 take 3 number param and find the max number
 
+decorators:
+decorators are used to add some extra functionality to the existing function 
+without changing the function
+
+decorators will take a function as an argument and return a function
+
 
 
 
