@@ -6,6 +6,7 @@ def isValid(func):
             if type(i) != str:
                 #print("Invalid data")
                 flag = False
+                break
         
         if flag == True:
             func(*args)   #voterData("ram","shyam","mohan")      
@@ -22,4 +23,4 @@ def voterData(*args):
     print("Voter data is: ",args)
 
 
-voterData("ram","shyam","mohan")    
+voterData("ram","1shyam","mohan")    
