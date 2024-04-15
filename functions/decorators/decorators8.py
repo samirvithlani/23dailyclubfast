@@ -17,9 +17,10 @@ def isValid(func):
 
 def isPrime(num): #2
     flag = False
-
     if num == 1:
         print(num, "is not a prime number")
+        flag = True
+
     elif num > 1:
         # check for factors
         for i in range(2, num):
@@ -32,14 +33,14 @@ def isPrime(num): #2
                 break
 
     # check if flag is True
-        if flag == True:
-            return False
-        else:
-            return True
+    if flag == True:
+        return False
+    else:
+        return True
 
 
 @isValid
 def display(*args):
     print("Prime numbers are:",args)        
 
-display(2,3,5,7,44)
+display(2,3,7,11,1)
