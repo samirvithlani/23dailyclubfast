@@ -7,7 +7,7 @@ from functools import reduce
 
 x = [10,20,30,40,50]
 
-add = reduce(lambda a,b:a+b,x)
+add = reduce(lambda a,b:a+b,x,100)
 #a = 10 b = 20
 #a = 30 b = 30
 #a = 60 b = 40

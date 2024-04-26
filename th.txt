@@ -272,23 +272,3 @@ find all player who not hit any six
 find all player  and more balls and hit 4 and 6 both
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-

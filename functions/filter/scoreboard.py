@@ -1,3 +1,5 @@
+from functools import reduce
+
 scorecard = [
     {"batter": "Kohli", "dismissal": "c Abdul Samad b Jaydev Unadkat", "runs": 51, "4s": 4, "6s": 1, "strike_rate": 118.60},
     {"batter": "du Plessis (c)", "dismissal": "c Markram b T Natarajan", "runs": 25, "4s": 1, "6s": 0, "strike_rate": 208.33},
@@ -19,4 +21,9 @@ np = filter(lambda x:x["6s"]==1,scorecard)
 #find all player who have played 30 and more balls and hit 4 and 6 both
 
 fap = filter(lambda x:x["4s"]>0 and x["6s"]>0,scorecard)
-print(list(fap))
+#print(list(fap))
+
+
+total_runs = reduce(lambda total, player: total + player["runs"], scorecard, 0)
+print(total_runs)
+
