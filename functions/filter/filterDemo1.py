@@ -2,7 +2,7 @@
 #
 sales = [1,3,4,5,8,7,9]
 evenSales = filter(lambda x: x%2==0,sales)
-print(list(evenSales))
+print(list(evenSales)) 
 
 users = ["amit","neh a","sur esh","rame sh","akshit"]
 

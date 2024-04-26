@@ -267,7 +267,9 @@ without changing the function
 decorators will take a function as an argument and return a function
 
 
-
+all players who is having strike rate > 150
+find all player who not hit any six 
+find all player who have played 30 and more balls and hit 4 and 6 both
 
 
 
