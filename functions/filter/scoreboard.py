@@ -6,7 +6,17 @@ scorecard = [
     {"batter": "Green", "dismissal": "not out", "runs": 37, "4s": 2, "6s": 0, "strike_rate": 185.00},
     {"batter": "Lomror", "dismissal": "c Cummins b Jaydev Unadkat", "runs": 74, "4s": 10, "6s": 1, "strike_rate": 175.00},
     {"batter": "Karthik (wk)", "dismissal": "c Abdul Samad b Cummins", "runs": 11, "4s": 1, "6s": 0, "strike_rate": 183.33},
-    {"batter": "Swapnil", "dismissal": None, "runs": None, "4s": None, "6s": None, "strike_rate": None}
+    {"batter": "Swapnil", "dismissal": 0, "runs": 0, "4s": 0, "6s": 0, "strike_rate": 0}
 ]
 
-print(scorecard)
+#print(scorecard)
+
+#find all player who not hit any six 
+
+np = filter(lambda x:x["6s"]==1,scorecard)
+#print(list(np))
+
+#find all player who have played 30 and more balls and hit 4 and 6 both
+
+fap = filter(lambda x:x["4s"]>0 and x["6s"]>0,scorecard)
+print(list(fap))
