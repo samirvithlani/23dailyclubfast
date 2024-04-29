@@ -271,4 +271,54 @@ all players who is having strike rate > 150
 find all player who not hit any six 
 find all player  and more balls and hit 4 and 6 both
 
+:-----------------------------------------------------:
+
+
+
+FILES:
+to store data permanently we can use file or database
+
+
+open
+read/write
+close
+
+---------------------------
+cpp --> file handling --> class --> ifstream, ofstream, fstream
+//ifstream --> read
+//ofstream --> write
+//fstream --> read/write
+
+c language --> file handling --> modes 
+//r read mode  --> file should be present
+//w write mode --> file should be created
+//a append mode --> file should be created
+//r+ read/write mode --> file should be present
+//w+ write/read mode --> file should be created
+//a+ append/read mode --> file should be created
+
+//x exclusive mode --> file should not be present
+
+--------------------------------------------------
+paths
+absolute path --> full path D:\royal\23dailyclubfast\th.txt
+relative path --> ./th.txt
+
+./ current directory
+../ parent directory
+../../ grand parent directory
+../../../ great grand parent directory
+
+cd changing directory
+
+
+
+
+
+
+
+
+
+
+
 
