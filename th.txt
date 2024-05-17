@@ -346,6 +346,31 @@ Fruit class Apple
 School class Student 
 
 
+file data
+busname  dept arri depttime arrivtime fare noofseats
+rajdhani adi  bvi  10:00 6:00 500 50
+
+
+--------------------------------------------------
+
+pleae enter src and dest 
+adi bvi 
+tickets -- 50
+
+10 tikets booked
+
+xyx.txt:
+busnamr
+dept
+arri
+depttime
+arrivtime
+fare
+noofseats
+
+total amout
+
+
 
 
 
