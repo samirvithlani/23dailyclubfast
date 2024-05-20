@@ -1,9 +1,13 @@
 class EExam:
     
+    
     def __init__(self):
+        self.questions = []
+        self.answers = []
         pass
     
     def readQuestion(self):
+        
         pass
     
     def startExam(self):
