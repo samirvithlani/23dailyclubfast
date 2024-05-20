@@ -1,0 +1,11 @@
+BUSNAME SOURCE DESTINATION DEPTTIME ARRIVALTIME FARE NOOFSEATS
+Gujarat_Express Mumbai Ahmedabad 08:00 16:30 $20 40
+Surat_Connect Surat Vadodara 09:15 11:45 $15 30
+Rajkot_Rider Rajkot Gandhinagar 11:30 14:00 $18 35
+Ahmedabad_Link Pune Ahmedabad 12:45 20:15 $25 50
+Vadodara_Swift Indore Vadodara 14:00 21:30 $30 45
+Gandhinagar_Express Delhi Gandhinagar 15:20 23:00 $40 60
+Jamnagar_Shuttle Jaipur Jamnagar 16:45 01:30 $35 55
+Bhuj_onnection Kolkata Bhuj 18:00 03:45 $50 40
+Patan_Express Bengaluru Patan 19:30 05:00 $45 25
+Anand_Transit Chennai Anand 21:00 06:30 $55 20

@@ -370,6 +370,37 @@ noofseats
 
 total amout
 
+---------------------------------------
+online mcq test
+files: 
+question
+4 options
+1 correct answer
+---------------------------------------
+SRNO QUESTION OPTION1 OPTION2 OPTION3 OPTION4 CORRECTANSWER
+1 where_is_india? north south east west 2
+2 what_is_capital_of_india? delhi mumbai chennai kolkata 1
+
+---------------------------------------
+{} --> list
+{srno:1,question:"where_is_india?",option1:"north",option2:"south",option3:"east",option4:"west",correctanswer:2}
+{srno:2,question:"what_is_capital_of_india?",option1:"delhi",option2:"mumbai",option3:"chennai",option4:"kolkata",correctanswer:1}
+[{},{}]
+
+
+
+start exam:
+display question: [list] --> loop -->dictionary --> print
+enter your answer: 1
+2nd question
+enter your answer: 2
+count++
+....................
+end exam:
+--------------
+show result:
+
+
 
 
 
