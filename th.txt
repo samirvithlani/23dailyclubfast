@@ -400,8 +400,26 @@ end exam:
 --------------
 show result:
 
+-------------------------------------------
+Exception handling:
+Error :   compile time error:
+          syntax error
 
+resolve:
 
+Exception : run time exception 
 
+logical, hardware, network, software
+
+ways to handle exception in python:
+1)try except
+2)try except else
+3)try except finally
+4)try except else finally
+5)nested try except
+
+raise
+
+All Exceptios Are Child of BaseException, Exception
 
 
