@@ -422,4 +422,17 @@ raise
 
 All Exceptios Are Child of BaseException, Exception
 
+rejex meta characters in python:
+\d --> digit
+\D --> non digit
+\w --> word character
+\W --> non word character
+\s --> white space
+\S --> non white space
+.  --> any character
+^  --> start of the string
+$  --> end of the string
+[] --> set of characters
+[^] --> except set of characters
+
 
