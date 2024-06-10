@@ -1,10 +1,10 @@
 #regular expression demo
 import re
 
-data = 'ab'
+data = 'okjava'
 
-c = re.compile(r'..')
-res = c.match(data)
+c = re.compile(r'\w')
+res = c.fullmatch(data)
 if res:
     print('Matched')
 else:
