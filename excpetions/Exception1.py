@@ -4,11 +4,12 @@ try:
     print("First number is: ", no1)
     print("Second number is: ", no2)
     result = no1 / no2
+    name = "amit"
+    print(name[10])
 except ValueError:
     print("Please enter a valid number")
 except ZeroDivisionError:
     print("Second number should not be zero")   
-
 except Exception:
     print("Some error occured")     
 

@@ -17,6 +17,16 @@ cnt = data.count('java1')
 print("count",cnt)
 
 
+try:
+    data.remove("abc")
+except ValueError as e:
+    print("Error",e)    
+
+
+
+
+
+
 
 
 
