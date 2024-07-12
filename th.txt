@@ -436,3 +436,15 @@ $  --> end of the string
 [^] --> except set of characters
 
 
+//functions
+normal functino def 
+return ....
+keyword arguments
+args
+kwargs
+lamda
+inner
+decorators
+
+
+
